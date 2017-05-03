@@ -7,6 +7,7 @@ Bryan tambien estuvo aca <br>
 
 ```C++
 int main () {
-  cout << "Hello world";
+  cout << "Hello world" << endl;
+  return 0;
 }
 ```
