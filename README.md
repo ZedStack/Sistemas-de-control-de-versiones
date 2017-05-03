@@ -6,7 +6,10 @@ Agustin estuvo aca <br>
 Bryan tambien estuvo aca <br>
 
 ```C++
+#include <iostream>
+
 int main () {
-  cout << "Hello world";
+  std::cout << "Hello world" << std::endl;
+  return 0;
 }
 ```
