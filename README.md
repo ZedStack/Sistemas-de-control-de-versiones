@@ -5,8 +5,8 @@ Aras-Valiña
 Agustin estuvo aca <br>
 Bryan tambien estuvo aca <br>
 
-'''C++
+```C++
 int main () {
   cout << "Hello world";
 }
-'''
+```
